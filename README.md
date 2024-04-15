@@ -13,7 +13,8 @@
  
 
 **Setup**
-Just open the code and run these two comands -:
+
+ Just open the code and run these two comands -:
 
     npm i
     npm run dev
